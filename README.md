@@ -1,11 +1,12 @@
-## Sebastian Guevara Sanchez
+#//-- Sebastian Guevara Sanchez
+#//-- Colombia
 
 [![Estadísticas de Github de Anurag](https://github-readme-stats.vercel.app/api?username=guevarastian)](https://github.com/guevarastian)
 [![Los mejores idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=guevarastian&layout=compact)](https://github.com/guevarastian)
 
-<img alt="Reaccionar" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Reaccionar" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+
 
 
 
