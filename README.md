@@ -4,6 +4,11 @@
 [![Los mejores idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=guevarastian&layout=compact)](https://github.com/guevarastian)
 
 <img alt="Reaccionar" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+
+
+
 <!--
 **guevaraStian/guevaraStian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
