@@ -1,9 +1,9 @@
 ## Sebastian Guevara Sanchez
 
-[![Estadísticas de Github de Anurag](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+[![Estadísticas de Github de Anurag](https://github-readme-stats.vercel.app/api?username=guevarastian)](https://github.com/guevarastian)
 
 
-[![Los mejores idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+[![Los mejores idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=guevarastian&layout=compact)](https://github.com/guevarastian)
 
 
 <!--
