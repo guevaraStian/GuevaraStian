@@ -1,4 +1,10 @@
-Sebastian Guevara Sanchez -- Colombia -- sebasguesa@hotmail.com
+Sebastian Guevara Sanchez
+
+
+Colombia
+
+
+sebasguesa@hotmail.com
 
 
 
