@@ -6,7 +6,7 @@ Ingeniero de sistemas, Desarrollador de software, Fullstack en diferentes lengua
 
 [![Estadísticas de Github de Anurag](https://github-readme-stats.vercel.app/api?username=guevarastian)](https://github.com/guevarastian)
 [![Los mejores idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=guevarastian&layout=compact)](https://github.com/guevarastian)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ------------ 
 Front-End
