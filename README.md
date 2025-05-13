@@ -11,6 +11,8 @@ Manejo de Base de datos SQL y NoSql, conocimiento en HTML, CSS y conexión JDBC.
 
 Manejo de servidores Windows y Linux. Control de versiones GIT y CVS.
 Conocimiento de instalación y mantenimiento a Redes de computadores CCNA, Soporte técnico a computadores y operario de AS400.
+
+
 Conocimientos en Ciberseguridad, control de programas de intrusión a Redes de información y manejo de algunos temas criptografícos.
 Programo software con tecnología Blockchain. Conocimiento en formulación y gestión de proyectos PMI y seguimiento PMBOK con ofimática. 
 
