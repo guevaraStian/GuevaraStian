@@ -19,8 +19,8 @@ Programo software con tecnología Blockchain. Conocimiento en formulación y ges
 
 
 [![Los mejores idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=guevarastian&layout=compact)](https://github.com/guevarastian)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuevaraStian&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuevaraStian&layout=compact)
+![Guevarastian GitHub stats](https://github-readme-stats.vercel.app/api?username=GuevaraStian&show_icons=true&theme=radical)
+
 
 
 ------------ 
