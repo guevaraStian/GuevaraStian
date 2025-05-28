@@ -21,6 +21,12 @@ Programo software con tecnología Blockchain. Conocimiento en formulación y ges
 [![Los mejores idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=guevarastian&layout=compact)](https://github.com/guevarastian)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuevaraStian&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuevaraStian&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuevaraStian&layout=compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuevaraStian&theme=github-compact)
+
+
 ------------ 
 Front-End
 
