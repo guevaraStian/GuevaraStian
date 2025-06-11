@@ -5,11 +5,8 @@ Ingeniero de sistemas, Desarrollador de software, Fullstack en diferentes lengua
 
 
 Manejo de programas de diseño de software UML. Conocimiento en HTML y CSS.
-
 Conocedor de lenguaje de programación Java, PHP, Python, JavaScript, R, Go y Ruby.
-
 Conocimiento en frameworks Angular, VueJs, Ionic, Laravel, Flask, Django y Rails. 
-
 Manejo de Base de datos SQL y NoSql, tambien conexión JDBC.
 
 
