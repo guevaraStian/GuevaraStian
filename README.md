@@ -4,9 +4,10 @@ Sebastian Guevara Sanchez - Colombia - sebasguesa@hotmail.com
 Ingeniero de sistemas, Desarrollador de software, Fullstack en diferentes lenguajes de programacion, me apasiona la Ciberseguridad y tengo conocimientos en Blockchain.
 
 
-Manejo de programas de diseño de software UML, conocedor de lenguaje de programación Java, PHP, Python, JavaScript, R, Go y Ruby. 
+Manejo de programas de diseño de software UML. Conocimiento en HTML y CSS.
+Conocedor de lenguaje de programación Java, PHP, Python, JavaScript, R, Go y Ruby. 
 Conocimiento en frameworks Angular, VueJs, Ionic, Laravel, Flask, Django y Rails. 
-Manejo de Base de datos SQL y NoSql, conocimiento en HTML, CSS y conexión JDBC.
+Manejo de Base de datos SQL y NoSql, tambien conexión JDBC.
 
 
 Manejo de servidores Windows y Linux. Control de versiones GIT y CVS.
