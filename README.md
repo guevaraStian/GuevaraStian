@@ -18,12 +18,11 @@ Conocimientos en Ciberseguridad, control de programas de intrusión a Redes de i
 Programo software con tecnología Blockchain. Conocimiento en formulación y gestión de proyectos PMI y seguimiento PMBOK con ofimática. 
 
 
-
-[![Los mejores idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=guevarastian&layout=compact)](https://github.com/guevarastian)
+[![Los idiomas mas usados](https://github-readme-stats.vercel.app/api/top-langs/?username=guevaraStian&layout=compact&theme=dark)](https://github.com/guevaraStian)
 ![Guevarastian GitHub stats](https://github-readme-stats.vercel.app/api?username=guevaraStian&show_icons=true&theme=radical)
 
 [![GuevaraStian](https://github-readme-activity-graph.vercel.app/graph?username=guevaraStian&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guevaraStian&layout=compact&theme=dark)](https://github.com/guevaraStian)
+
 ------------ 
 Front-End
 
