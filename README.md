@@ -17,7 +17,7 @@ Conocimiento de instalación y mantenimiento a Redes de computadores CCNA, Sopor
 Conocimientos en Ciberseguridad, control de programas de intrusión a Redes de información y manejo de algunos temas criptografícos.
 Programo software con tecnología Blockchain. Conocimiento en formulación y gestión de proyectos PMI y seguimiento PMBOK con ofimática. 
 
-Les recomiendo, la siguiente herramienta de windows, process monitor, ayuda a grabar los procesos de un computador, y luego guardarlo en csv para posteriormente ser usados como prueba de robo de informacion. https://learn.microsoft.com/es-es/sysinternals/downloads/procmon  
+Les recomiendo, la siguiente herramienta de windows, process monitor, ayuda a grabar los procesos de un computador, y luego guardarlo en csv para posteriormente ser usados como prueba de robo de informacion. https://learn.microsoft.com/es-es/sysinternals/downloads/procmon . los procesos svchost, msedge y wininint, son los mas usados para esconder un hackeo
 
 
 
