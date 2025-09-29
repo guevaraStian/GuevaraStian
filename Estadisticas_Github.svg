@@ -1,79 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="818">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420">
     <style>
-        .title { font: bold 24px sans-serif; fill: #24292e; }
-        .label { font: 14px sans-serif; fill: #57606a; }
-        .value { font: bold 14px sans-serif; fill: #0366d6; }
-        .small { font: 12px sans-serif; fill: #57606a; }
+        .title { font: bold 26px sans-serif; fill: #24292e; }
+        .label { font: 16px sans-serif; fill: #57606a; }
+        .value { font: bold 16px sans-serif; fill: #0366d6; }
+        .legend-text { font: 15px sans-serif; fill: #24292e; }
+        .footer { font: 12px sans-serif; fill: #999999; }
     </style>
 
-    <text x="30" y="40" class="title">📊 GitHub Stats — @GuevaraStian</text>
-
-    <text x="30" y="80" class="label">📅 Última actualización:</text>
-    <text x="260" y="80" class="value">28 Sep 2025</text>
-
-    <text x="30" y="110" class="label">📌 Repositorio destacado:</text>
-    <text x="260" y="110" class="value">guevaraStian/Redes_Neuronales</text>
-
-    <text x="30" y="140" class="label">📈 Contribuciones (último año):</text>
-    <text x="260" y="140" class="value">Ver en el perfil (no disponible por API REST)</text>
-
-    <text x="30" y="170" class="label">📧 Correo público:</text>
-    <text x="260" y="170" class="value">sebasguesa@hotmail.com</text>
-
-    <text x="30" y="200" class="label">📁 Repositorios públicos:</text>
-    <text x="260" y="200" class="value">21</text>
-
-    <text x="30" y="230" class="label">⭐ Total de estrellas:</text>
-    <text x="260" y="230" class="value">93</text>
-
-    <text x="30" y="260" class="label">👥 Seguidores / Siguiendo:</text>
-    <text x="260" y="260" class="value">2061 / 4503</text>
-
-    <text x="30" y="290" class="label">📝 Commits en 2025:</text>
-    <text x="260" y="290" class="value">238</text>
+    <!-- Título -->
+    <text x="30" y="40" class="title">📊 Estadísticas GitHub - @GuevaraStian</text>
 
     <!-- Pie chart -->
-    <g><path d="M600,150 L680.0,150.0 A80,80 0 1,1 524.3949539856156,123.84895762760463 Z" fill="#4F5D95" />
-<path d="M600,150 L524.3949539856156,123.84895762760463 A80,80 0 0,1 663.6107927229713,101.4853934453222 Z" fill="#00ADD8" />
-<path d="M600,150 L663.6107927229713,101.4853934453222 A80,80 0 0,1 675.9435095600347,124.8487901741306 Z" fill="#1e4aec" />
-<path d="M600,150 L675.9435095600347,124.8487901741306 A80,80 0 0,1 678.7474893395072,135.8991871608692 Z" fill="#f34b7d" />
-<path d="M600,150 L678.7474893395072,135.8991871608692 A80,80 0 0,1 679.2711534577871,139.2257608402278 Z" fill="#3572A5" />
-<path d="M600,150 L679.2711534577871,139.2257608402278 A80,80 0 0,1 679.6209121765047,142.2211604862081 Z" fill="#555555" />
-<path d="M600,150 L679.6209121765047,142.2211604862081 A80,80 0 0,1 679.83576284359,144.87642984023378 Z" fill="#b07219" />
-<path d="M600,150 L679.83576284359,144.87642984023378 A80,80 0 0,1 679.9556461490527,147.3364217887434 Z" fill="#701516" />
-<path d="M600,150 L679.9556461490527,147.3364217887434 A80,80 0 0,1 679.9783825921573,148.1403446710474 Z" fill="#563d7c" />
-<path d="M600,150 L679.9783825921573,148.1403446710474 A80,80 0 0,1 679.9884883695156,148.6428970710106 Z" fill="#29bcb1" />
-<path d="M600,150 L679.9884883695156,148.6428970710106 A80,80 0 0,1 679.9948836516148,149.0952406040275 Z" fill="#c6538c" />
-<path d="M600,150 L679.9948836516148,149.0952406040275 A80,80 0 0,1 679.9973312738077,149.34655599424678 Z" fill="#e34c26" />
-<path d="M600,150 L679.9973312738077,149.34655599424678 A80,80 0 0,1 679.9987209026782,149.54761306892746 Z" fill="#ff9900" />
-<path d="M600,150 L679.9987209026782,149.54761306892746 A80,80 0 0,1 679.9994315114598,149.6984078196396 Z" fill="#e44b23" />
-<path d="M600,150 L679.9994315114598,149.6984078196396 A80,80 0 0,1 679.9997473382604,149.79893828183984 Z" fill="#b83998" />
-<path d="M600,150 L679.9997473382604,149.79893828183984 A80,80 0 0,1 679.9998578777387,149.84920364192593 Z" fill="#2b7489" />
-<path d="M600,150 L679.9998578777387,149.84920364192593 A80,80 0 0,1 679.9999368345401,149.89946906154398 Z" fill="#89e051" />
-<path d="M600,150 L679.9999368345401,149.89946906154398 A80,80 0 0,1 679.9999368345401,149.89946906154398 Z" fill="#f0db4f" />
-<path d="M600,150 L679.9999368345401,149.89946906154398 A80,80 0 0,1 679.9999368345401,149.89946906154398 Z" fill="#f1e05a" /></g>
+    <g><path d="M200,180 L320.0,180.0 A120,120 0 1,1 88.04256019156267,136.80819902411878 Z" fill="#f1e05a" />
+<path d="M200,180 L88.04256019156267,136.80819902411878 A120,120 0 0,1 299.37663278257645,112.73719559223721 Z" fill="#3572A5" />
+<path d="M200,180 L299.37663278257645,112.73719559223721 A120,120 0 0,1 316.00166839963555,149.28171670647933 Z" fill="#4F5D95" />
+<path d="M200,180 L316.00166839963555,149.28171670647933 A120,120 0 0,1 319.20761794323505,166.23250842383746 Z" fill="#563d7c" />
+<path d="M200,180 L319.20761794323505,166.23250842383746 A120,120 0 0,1 319.68687502787884,171.3367473740567 Z" fill="#701516" />
+<path d="M200,180 L319.68687502787884,171.3367473740567 A120,120 0 0,1 319.9309351865048,175.92927705556076 Z" fill="#e34c26" />
+<path d="M200,180 L319.9309351865048,175.92927705556076 A120,120 0 0,1 320.0,180.00000000000009 Z" fill="#2b7489" /></g>
 
-    <!-- Lengenda de lenguajes -->
-    <circle cx="30" cy="320" r="5" fill="#4F5D95" /><text x="45" y="325" class="value">JavaScript (55.3%)</text>
-<circle cx="30" cy="340" r="5" fill="#00ADD8" /><text x="45" y="345" class="value">PHP (34.33%)</text>
-<circle cx="30" cy="360" r="5" fill="#1e4aec" /><text x="45" y="365" class="value">Python (5.28%)</text>
-<circle cx="30" cy="380" r="5" fill="#f34b7d" /><text x="45" y="385" class="value">HTML (2.27%)</text>
-<circle cx="30" cy="400" r="5" fill="#3572A5" /><text x="45" y="405" class="value">Solidity (0.67%)</text>
-<circle cx="30" cy="420" r="5" fill="#555555" /><text x="45" y="425" class="value">CoffeeScript (0.6%)</text>
-<circle cx="30" cy="440" r="5" fill="#b07219" /><text x="45" y="445" class="value">CSS (0.53%)</text>
-<circle cx="30" cy="460" r="5" fill="#701516" /><text x="45" y="465" class="value">Less (0.49%)</text>
-<circle cx="30" cy="480" r="5" fill="#563d7c" /><text x="45" y="485" class="value">Ruby (0.16%)</text>
-<circle cx="30" cy="500" r="5" fill="#29bcb1" /><text x="45" y="505" class="value">Go (0.1%)</text>
-<circle cx="30" cy="520" r="5" fill="#c6538c" /><text x="45" y="525" class="value">R (0.09%)</text>
-<circle cx="30" cy="540" r="5" fill="#e34c26" /><text x="45" y="545" class="value">Hack (0.05%)</text>
-<circle cx="30" cy="560" r="5" fill="#ff9900" /><text x="45" y="565" class="value">SCSS (0.04%)</text>
-<circle cx="30" cy="580" r="5" fill="#e44b23" /><text x="45" y="585" class="value">TypeScript (0.03%)</text>
-<circle cx="30" cy="600" r="5" fill="#b83998" /><text x="45" y="605" class="value">Shell (0.02%)</text>
-<circle cx="30" cy="620" r="5" fill="#2b7489" /><text x="45" y="625" class="value">Batchfile (0.01%)</text>
-<circle cx="30" cy="640" r="5" fill="#89e051" /><text x="45" y="645" class="value">Dockerfile (0.01%)</text>
-<circle cx="30" cy="660" r="5" fill="#f0db4f" /><text x="45" y="665" class="value">Java (0.0%)</text>
-<circle cx="30" cy="680" r="5" fill="#f1e05a" /><text x="45" y="685" class="value">PowerShell (0.0%)</text>
+    <!-- Leyenda -->
+    <g><circle cx="420" cy="70" r="7" fill="#f1e05a" /><text x="440" y="75" class="legend-text">JavaScript (55.86%)</text>
+<circle cx="420" cy="100" r="7" fill="#3572A5" /><text x="440" y="105" class="legend-text">PHP (34.67%)</text>
+<circle cx="420" cy="130" r="7" fill="#4F5D95" /><text x="440" y="135" class="legend-text">Python (5.35%)</text>
+<circle cx="420" cy="160" r="7" fill="#563d7c" /><text x="440" y="165" class="legend-text">HTML (2.29%)</text>
+<circle cx="420" cy="190" r="7" fill="#701516" /><text x="440" y="195" class="legend-text">Solidity (0.68%)</text>
+<circle cx="420" cy="220" r="7" fill="#e34c26" /><text x="440" y="225" class="legend-text">CoffeeScript (0.61%)</text>
+<circle cx="420" cy="250" r="7" fill="#2b7489" /><text x="440" y="255" class="legend-text">CSS (0.54%)</text>
+</g>
 
+    <!-- Datos clave -->
+    <text x="30" y="320" class="label">📅 Última actualización:</text>
+    <text x="260" y="320" class="value">28 Sep 2025</text>
 
-    <text x="30" y="798" class="small">Generado automáticamente con la API de GitHub</text>
+    <text x="30" y="350" class="label">📌 Repositorio destacado:</text>
+    <text x="260" y="350" class="value">guevaraStian/Redes_Neuronales</text>
+
+    <text x="30" y="380" class="label">📈 Contribuciones (último año):</text>
+    <text x="260" y="380" class="value">Ver perfil (API REST no provee exacto)</text>
+
+    <text x="30" y="410" class="label">📧 Correo público:</text>
+    <text x="260" y="410" class="value">sebasguesa@hotmail.com</text>
+
+    <text x="30" y="440" class="label">📁 Repositorios públicos:</text>
+    <text x="260" y="440" class="value">21</text>
+
+    <text x="30" y="470" class="label">⭐ Total estrellas:</text>
+    <text x="260" y="470" class="value">93</text>
+
+    <text x="30" y="500" class="label">👥 Seguidores / Siguiendo:</text>
+    <text x="260" y="500" class="value">2061 / 4504</text>
+
+    <text x="30" y="530" class="label">📝 Commits en 2025:</text>
+    <text x="260" y="530" class="value">238</text>
+
+    <text x="30" y="410" class="footer">Generado automáticamente con la API de GitHub</text>
 </svg>
