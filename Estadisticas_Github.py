@@ -8,11 +8,11 @@ import math
 from collections import defaultdict
 from datetime import datetime
 
-# ========== CONFIGURA TU TOKEN Y USUARIO ==========
+# Se crean las variables de usuario y token
 TOKEN = "TOKEN"
 USER = "USUARIO"
 
-
+# Se crea la variable con los json necesarios
 HEADERS = {
     "Authorization": f"token {TOKEN}",
     "Accept": "application/vnd.github+json"
@@ -26,7 +26,7 @@ COLORS = [
     "#2b7489"
 ]
 
-# --- Funciones API ---
+# Las siguientes son funciones de consulta a una api
 
 def get_user():
     res = requests.get(f"{API_BASE}/users/{USER}", headers=HEADERS)
@@ -73,7 +73,7 @@ def get_commit_count_year(repos):
             total_commits += len(res.json())
     return total_commits
 
-# --- SVG Helpers ---
+# Empiezan las funciones para la construccion de SVG
 
 def draw_pie_chart(data, cx, cy, r):
     paths = []
@@ -166,14 +166,14 @@ def generate_svg(data):
     with open("Estadisticas_Github.svg", "w", encoding="utf-8") as f:
         f.write(svg_content)
 
-    print("✅ Archivo SVG creado: Estadisticas_Github.svg")
+    print("(+) Se creo el archivo SVG : Estadisticas_Github.svg")
 
-# --- MAIN ---
+# Main , lo primero que se ejecuta
 def main():
     user = get_user()
     repos = get_repos()
     if not repos:
-        print("❌ No se encontraron repositorios")
+        print("(-) No se encontraron repositorios")
         return
 
     data = {
