@@ -25,12 +25,6 @@ Les recomiendo, la siguiente herramienta de windows, process monitor, ayuda a gr
 [![GuevaraStian](https://github-readme-activity-graph.vercel.app/graph?username=guevaraStian&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
-<<<<<<< HEAD
-=======
-![GitHub](./Estadisticas_Github.svg)
->>>>>>> 216d14dd5aa9f0bd4135e0c3c027d805840bd5c0
-
 ------------ 
 Front-End
 
