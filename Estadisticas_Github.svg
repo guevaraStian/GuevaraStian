@@ -1,11 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560">
     <style>
-        .title { font: bold 26px sans-serif; fill: #24292e; }
-        .label { font: 16px sans-serif; fill: #57606a; }
-        .value { font: bold 16px sans-serif; fill: #0366d6; }
-        .legend-text { font: 15px sans-serif; fill: #24292e; }
-        .footer { font: 12px sans-serif; fill: #999999; }
+        .title { font: bold 26px sans-serif; fill: #ff4444; }
+        .label { font: 16px sans-serif; fill: #ff4444; }
+        .value { font: bold 16px monospace; fill: #ffffff; }
+        .legend-text { font: 15px monospace; fill: #ffffff; }
+        .footer { font: 12px monospace; fill: #777777; }
+        svg { background-color: #121212; }
     </style>
+
+    <!-- Fondo oscuro -->
+    <rect width="800" height="560" fill="#121212" />
 
     <!-- Título -->
     <text x="30" y="40" class="title">📊 Estadísticas GitHub - @GuevaraStian</text>
@@ -54,5 +58,5 @@
     <text x="30" y="530" class="label">📝 Commits en 2025:</text>
     <text x="260" y="530" class="value">238</text>
 
-    <text x="30" y="410" class="footer">Generado automáticamente con la API de GitHub</text>
+    <text x="30" y="550" class="footer">Generado automáticamente con la API de GitHub</text>
 </svg>

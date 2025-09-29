@@ -9,8 +9,8 @@ from collections import defaultdict
 from datetime import datetime
 
 # ========== CONFIGURA TU TOKEN Y USUARIO ==========
-TOKEN = "TOKEN_GITHUB"
-USER = "Usuario_Github"
+TOKEN = "TOKEN"
+USER = "USUARIO"
 
 
 HEADERS = {
@@ -111,16 +111,20 @@ def generate_svg(data):
         # Texto lenguaje + %
         legend_svg += f'<text x="440" y="{y+5}" class="legend-text">{lang} ({pct}%)</text>\n'
 
-    height_svg = max(420, 70 + len(legend) * 30 + 20)
+    height_svg = max(560, 70 + len(legend) * 30 + 40)
 
     svg_content = f'''<svg xmlns="http://www.w3.org/2000/svg" width="800" height="{height_svg}">
     <style>
-        .title {{ font: bold 26px sans-serif; fill: #24292e; }}
-        .label {{ font: 16px sans-serif; fill: #57606a; }}
-        .value {{ font: bold 16px sans-serif; fill: #0366d6; }}
-        .legend-text {{ font: 15px sans-serif; fill: #24292e; }}
-        .footer {{ font: 12px sans-serif; fill: #999999; }}
+        .title {{ font: bold 26px sans-serif; fill: #ff4444; }}
+        .label {{ font: 16px sans-serif; fill: #ff4444; }}
+        .value {{ font: bold 16px monospace; fill: #ffffff; }}
+        .legend-text {{ font: 15px monospace; fill: #ffffff; }}
+        .footer {{ font: 12px monospace; fill: #777777; }}
+        svg {{ background-color: #121212; }}
     </style>
+
+    <!-- Fondo oscuro -->
+    <rect width="800" height="{height_svg}" fill="#121212" />
 
     <!-- Título -->
     <text x="30" y="40" class="title">📊 Estadísticas GitHub - @{USER}</text>
