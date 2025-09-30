@@ -20,6 +20,10 @@ Programo software con tecnología Blockchain. Conocimiento en formulación y ges
 Les recomiendo, la siguiente herramienta de windows, process monitor, ayuda a grabar los procesos de un computador, y luego guardarlo en csv para posteriormente ser usados como prueba de robo de informacion. https://learn.microsoft.com/es-es/sysinternals/downloads/procmon . los procesos svchost, msedge y wininint, son los mas usados para esconder un hackeo
 
 
+-----------------
+
+
+
 ![GitHub Stats](./Estadisticas_Github.svg)
 
 [![GuevaraStian](https://github-readme-activity-graph.vercel.app/graph?username=guevaraStian&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
