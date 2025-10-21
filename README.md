@@ -49,14 +49,8 @@ Programo software con tecnología Blockchain. Conocimiento en formulación y ges
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) 
 
------------------------
 
-
-Les recomiendo, la siguiente herramienta de windows, process monitor, ayuda a grabar los procesos de un computador, y luego guardarlo en csv para posteriormente ser usados como prueba de robo de informacion. https://learn.microsoft.com/es-es/sysinternals/downloads/procmon . los procesos svchost, msedge y wininint, son los mas usados para esconder un hackeo
-
-
------------------
-
+------------ 
 
 
 ![GitHub Stats](./Estadisticas_Github.svg)
@@ -64,9 +58,31 @@ Les recomiendo, la siguiente herramienta de windows, process monitor, ayuda a gr
 [![GuevaraStian](https://github-readme-activity-graph.vercel.app/graph?username=guevaraStian&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
------------- 
 
- 
+
+ -----------------------
+RECOMENDACIONES ANTI HACKING BLUE TEAM
+
+
+Los computadores, celulares, redes sociales, pueden ser hackeadas por personas externas, hay varias formas de hacer evidencia de estos hackeos.
+
+
+Les recomiendo, la siguiente herramienta de windows, process monitor, ayuda a grabar los procesos de un computador, y luego guardarlo en csv para posteriormente ser usados como prueba de robo de informacion. https://learn.microsoft.com/es-es/sysinternals/downloads/procmon . los procesos svchost, msedge y wininint, son los mas usados para esconder un hackeo
+
+
+En un celular puede obtener el listado de las veces que se abren las aplicaciones, usando "ActionDash" y tener el listado de hora y fecha que se abrió cada aplicación. https://play.google.com/store/apps/details?id=com.actiondash.playstore&hl=es_CO
+
+
+En Whatsap puedes ver si esta abierto en otro dispositivo con la opción "Dispositivos vinculados" 
+
+
+
+En Facebook e Instagram puedes usar la opción "Centro de cuenta" de meta, para ver en que computadores esta abierta tu red social.
+
+
+Con el fin de analizar la red donde estas conectado puedes ver dispositivos con Nmap y sniffar la red con Wireshark.
+https://nmap.org/    https://www.wireshark.org/
+-----------------
 
 
 
