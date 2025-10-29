@@ -9,8 +9,8 @@ from collections import defaultdict
 from datetime import datetime
 
 # Se crean las variables de usuario y token
-TOKEN = "TOKEN_GIT"
-USER = "USUARIO"
+TOKEN = "TOKEN_GIT_"
+USER = "USUARIO_GIT_"
 
 # Se crea la variable con los json necesarios
 HEADERS = {
