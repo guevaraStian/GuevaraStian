@@ -80,7 +80,7 @@ En Whatsap puedes ver si esta abierto en otro dispositivo con la opción "Dispos
 En Facebook e Instagram puedes usar la opción "Centro de cuenta" de meta, para ver en que computadores esta abierta tu red social.
 
 
-Con el fin de analizar la red donde estas conectado puedes ver dispositivos con Nmap y sniffar la red con Wireshark.
+Con el fin de analizar la red de dispositivos electronicos, donde estas conectado puedes ver datos con Nmap y sniffar la red con Wireshark.
 https://nmap.org/    https://www.wireshark.org/
 
 
