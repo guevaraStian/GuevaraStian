@@ -6,8 +6,6 @@ Ingeniero de sistemas, Desarrollador de software, Fullstack en diferentes lengua
 
 --------------------------
 
-
-**FRONT-END**
 <b style="color:red"> FRONT-END </b>
 
 Manejo de programas de diseño de software UML. Conocimiento en HTML y CSS.
@@ -16,7 +14,7 @@ Manejo de programas de diseño de software UML. Conocimiento en HTML y CSS.
 
 ------------ 
 
-<span style="color: red"> BACK-END </span>
+<b style="color: red"> BACK-END </b>
 
 Conocedor de lenguaje de programación Java, PHP, Python, JavaScript, R, Go y Ruby.
 Conocimiento en frameworks Angular, VueJs, Laravel, Flask, Django y Rails. 
@@ -35,7 +33,7 @@ Manejo de Base de datos SQL y NoSql, tambien conexión JDBC.
 
 ---------------------
 
-<span style="color: red"> SERVIDORES </span>
+<b style="color: red"> SERVIDORES </b>
 
 
 Manejo de servidores Windows y Linux. Control de versiones GIT y CVS.
@@ -61,7 +59,7 @@ Programo software con tecnología Blockchain. Conocimiento en formulación y ges
 
  -----------------------
 
-<span style="color: red"> RECOMENDACIONES ANTI HACKING BLUE TEAM </span>
+<b style="color: red"> RECOMENDACIONES ANTI HACKING BLUE TEAM </b>
 
 
 Los computadores, celulares, redes sociales, pueden ser hackeadas por personas externas, hay varias formas de hacer evidencia de estos hackeos.
