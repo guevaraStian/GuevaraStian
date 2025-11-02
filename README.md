@@ -7,8 +7,8 @@ Ingeniero de sistemas, Desarrollador de software, Fullstack en diferentes lengua
 --------------------------
 
 
-**Texto en negrita**
-<span style="color:red"> FRONT-END </span>
+**FRONT-END**
+<b style="color:red"> FRONT-END </b>
 
 Manejo de programas de diseño de software UML. Conocimiento en HTML y CSS.
 
