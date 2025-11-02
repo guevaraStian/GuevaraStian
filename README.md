@@ -59,7 +59,7 @@ Programo software con tecnología Blockchain. Conocimiento en formulación y ges
 
  -----------------------
 
-<b style="color: red"> RECOMENDACIONES ANTI HACKING BLUE TEAM </b>
+<b style="color: red"> RECOMENDACIONES ANTI HACKING - APLICACIONES DE BLUE TEAM </b>
 
 
 Los computadores, celulares, redes sociales, pueden ser hackeadas por personas externas, hay varias formas de hacer evidencia de estos hackeos.
