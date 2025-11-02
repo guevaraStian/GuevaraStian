@@ -7,16 +7,16 @@ Ingeniero de sistemas, Desarrollador de software, Fullstack en diferentes lengua
 --------------------------
 
 
-FRONT-END
 
+<span style="color: red"> FRONT-END </span>
 
 Manejo de programas de diseño de software UML. Conocimiento en HTML y CSS.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 ------------ 
-BACK-END
 
+<span style="color: red"> BACK-END </span>
 
 Conocedor de lenguaje de programación Java, PHP, Python, JavaScript, R, Go y Ruby.
 Conocimiento en frameworks Angular, VueJs, Laravel, Flask, Django y Rails. 
@@ -35,8 +35,7 @@ Manejo de Base de datos SQL y NoSql, tambien conexión JDBC.
 
 ---------------------
 
-
-SERVIDORES
+<span style="color: red"> SERVIDORES </span>
 
 
 Manejo de servidores Windows y Linux. Control de versiones GIT y CVS.
@@ -61,7 +60,8 @@ Programo software con tecnología Blockchain. Conocimiento en formulación y ges
 
 
  -----------------------
-RECOMENDACIONES ANTI HACKING BLUE TEAM
+
+<span style="color: red"> RECOMENDACIONES ANTI HACKING BLUE TEAM </span>
 
 
 Los computadores, celulares, redes sociales, pueden ser hackeadas por personas externas, hay varias formas de hacer evidencia de estos hackeos.
