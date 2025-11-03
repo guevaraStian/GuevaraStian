@@ -1,4 +1,4 @@
-Sebastian Guevara Sanchez - Colombia - sebasguesa@hotmail.com
+<h1 style="font-size: 3em; color: #FF0000;">•  Sebastian Guevara Sanchez </h1> - Colombia - sebasguesa@hotmail.com
 
 
 Ingeniero de sistemas, Desarrollador de software, Fullstack en diferentes lenguajes de programacion, me apasiona la Ciberseguridad y tengo conocimientos en Blockchain.
@@ -6,9 +6,6 @@ Ingeniero de sistemas, Desarrollador de software, Fullstack en diferentes lengua
 
 --------------------------
 
-<b style="color:#FF0000"> FRONT-END </b>
-
-----------
 <h1 style="font-size: 3em; color: #FF0000;">• FRONT-END</h1>
 
 
@@ -18,7 +15,7 @@ Manejo de programas de diseño de software UML. Conocimiento en HTML y CSS.
 
 ------------ 
 
-<b style="color: red"> BACK-END </b>
+<h1 style="font-size: 3em; color: #FF0000;">• BACK-END </h1>
 
 Conocedor de lenguaje de programación Java, PHP, Python, JavaScript, R, Go y Ruby.
 Conocimiento en frameworks Angular, VueJs, Laravel, Flask, Django y Rails. 
@@ -37,7 +34,7 @@ Manejo de Base de datos SQL y NoSql, tambien conexión JDBC.
 
 ---------------------
 
-<b style="color: red"> SERVIDORES </b>
+<h1 style="font-size: 3em; color: #FF0000;">• SERVIDORES </h1>
 
 
 Manejo de servidores Windows y Linux. Control de versiones GIT y CVS.
@@ -63,7 +60,7 @@ Programo software con tecnología Blockchain. Conocimiento en formulación y ges
 
  -----------------------
 
-<b style="color: red"> RECOMENDACIONES ANTI HACKING - APLICACIONES DE BLUE TEAM </b>
+<h1 style="font-size: 3em; color: #FF0000;">• RECOMENDACIONES ANTI HACKING - APLICACIONES DE BLUE TEAM </h1>
 
 
 Los computadores, celulares, redes sociales, pueden ser hackeadas por personas externas, hay varias formas de hacer evidencia de estos hackeos.
