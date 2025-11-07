@@ -2,7 +2,7 @@
 Colombia - sebasguesa@hotmail.com
 
 
-Ingeniero de sistemas, Desarrollador de software, Fullstack en diferentes lenguajes de programacion, me apasiona la Ciberseguridad y tengo conocimientos en Blockchain, Redes neuronales, APIs y Redes de computadores.
+Ingeniero de sistemas, Desarrollador de software, Fullstack en diferentes lenguajes de programacion, me apasiona la Ciberseguridad y tengo conocimientos en Blockchain, Inteligencia artificial, APIs, Redes de computadores y Redes neuronales.
 
 
 --------------------------
