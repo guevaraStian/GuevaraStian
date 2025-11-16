@@ -76,7 +76,6 @@ En un celular puede obtener el listado de las veces que se abren las aplicacione
 En Whatsap puedes ver si esta abierto en otro dispositivo con la opción "Dispositivos vinculados" 
 
 
-
 En Facebook e Instagram puedes usar la opción "Centro de cuenta" de meta, para ver en que computadores esta abierta tu red social.
 
 
