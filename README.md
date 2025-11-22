@@ -82,7 +82,7 @@ En Facebook e Instagram puedes usar la opción "Centro de cuenta" de meta, para 
 Con el fin de analizar la red de dispositivos electronicos, donde estas conectado puedes ver datos con Nmap y sniffar la red con Wireshark.
 https://nmap.org/    https://www.wireshark.org/
 
-
+------------------------------
 
 
 
