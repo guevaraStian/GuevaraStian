@@ -63,8 +63,17 @@ Programo software con tecnología Blockchain. Conocimiento en formulación y ges
 
 <h1 style="font-size: 3em; color: #FF0000;">• RECOMENDACIONES ANTI HACKING - APLICACIONES DE BLUE TEAM </h1>
 
+![HTML1](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![HTML2](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![HTML3](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML4](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![HTML6](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![HTML7](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![HTML8](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![HTML9](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 
+ 
 Los computadores, celulares, redes sociales, pueden ser hackeadas por personas externas, hay varias formas de hacer evidencia de estos hackeos.
 
 
@@ -86,7 +95,10 @@ Con el fin de analizar la red de dispositivos electronicos, donde estas conectad
 
 
 <h1 style="font-size: 3em; color: #FF0000;">• RECOMENDACIONES TECNOLOGICAS Y SALUD</h1>
-
+![HTML10](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)
+![HTML11](https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![HTML12](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
+![HTML13](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)
 
 
 Los cuerpos humanos pueden estar secuestrados por medio de un "Neuro dust" instalado cerca ala medula espina y puede controlar el sistema nervioso, normalmente se comunican por ultrasonido y usan el efecto piezo eléctrico para cargarse. Recomiendo no ser transhumanistas en estos casos
