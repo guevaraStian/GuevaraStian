@@ -79,10 +79,29 @@ En Whatsap puedes ver si esta abierto en otro dispositivo con la opción "Dispos
 En Facebook e Instagram puedes usar la opción "Centro de cuenta" de meta, para ver en que computadores esta abierta tu red social.
 
 
-Con el fin de analizar la red de dispositivos electronicos, donde estas conectado puedes ver datos con Nmap y sniffar la red con Wireshark.
-https://nmap.org/    https://www.wireshark.org/
+Con el fin de analizar la red de dispositivos electronicos, donde estas conectado puedes ver datos con Nmap y sniffar la red con Wireshark. https://nmap.org/    https://www.wireshark.org/
 
 ------------------------------
+
+
+<h1 style="font-size: 3em; color: #FF0000;">• RECOMENDACIONES TECNOLOGICAS Y SALUD</h1>
+
+
+
+Los cuerpos humanos pueden estar secuestrados por medio de un "Neuro dust" instalado cerca ala medula espina y puede controlar el sistema nervioso, normalmente se comunican por ultrasonido y usan el efecto piezo eléctrico para cargarse. Recomiendo no ser transhumanistas en estos casos
+
+Hay varias frecuencias electromagneticas que pueden afectar el cuerpo humano, causando mareos, quemaduras, cancer o la muerte, estas frecuencias puede ser emitidas por medio de laser de electromagnetismo, Recomiendo telas EMF para cuidar los órganos.
+
+El ultrasonido puede mover objetos sin que el ojo del ser humano lo detecte, y los emisores del ultrasonido pueden ser microtecnologia, y pueden hacer tropezar a alguien. Recomiendo caminar con cuidado.
+
+Hay Microcámaras del tamaño de un arroz (endoscópicas) que pueden ser usadas para espionaje, recomiendo comprar artefactos que con infrarojo detecten cámaras, asi esten apagadas. 
+
+
+
+
+
+
+
 
 
 
