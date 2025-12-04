@@ -95,6 +95,8 @@ Con el fin de analizar la red de dispositivos electronicos, donde estas conectad
 
 
 <h1 style="font-size: 3em; color: #FF0000;">• RECOMENDACIONES TECNOLOGICAS Y SALUD</h1>
+
+
 ![HTML10](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)
 ![HTML11](https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![HTML12](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
