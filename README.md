@@ -96,7 +96,7 @@ El ultrasonido puede mover objetos sin que el ojo del ser humano lo detecte, y l
 
 Hay Microcámaras del tamaño de un arroz (endoscópicas) que pueden ser usadas para espionaje, recomiendo comprar artefactos que con infrarojo detecten cámaras, asi esten apagadas. 
 
-Si se dan cuenta de alguno de estas violaciones a los derechos humanos, recuerden documentar lugar, hora y caracteristicas donde se realizo ese tipo de agrecion.
+Si se dan cuenta de alguno de estas violaciones a los derechos humanos, recuerden documentar lugar, hora y caracteristicas donde se realizo ese tipo de agresion.
 
 
 
