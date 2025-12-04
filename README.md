@@ -64,6 +64,14 @@ Programo software con tecnología Blockchain. Conocimiento en formulación y ges
 <h1 style="font-size: 3em; color: #FF0000;">• RECOMENDACIONES ANTI HACKING - APLICACIONES DE BLUE TEAM </h1>
 
 
+![Microsoft]([https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white])
+![Microsoft]([https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white])
+![Microsoft]([https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white])
+![Microsoft]([https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white]))
+
+
+
+
 Los computadores, celulares, redes sociales, pueden ser hackeadas por personas externas, hay varias formas de hacer evidencia de estos hackeos.
 
 
