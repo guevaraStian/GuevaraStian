@@ -77,13 +77,13 @@ Programo software con tecnología Blockchain. Conocimiento en formulación y ges
 Los computadores, celulares, redes sociales, pueden ser hackeadas por personas externas, hay varias formas de hacer evidencia de estos hackeos.
 
 
-Les recomiendo, la siguiente herramienta de windows, process monitor, ayuda a grabar los procesos de un computador, y luego guardarlo en csv para posteriormente ser usados como prueba de robo de informacion. https://learn.microsoft.com/es-es/sysinternals/downloads/procmon . los procesos svchost, msedge y wininint, son los mas usados para esconder un hackeo
+Les recomiendo, la siguiente herramienta de windows, process monitor, ayuda a grabar los procesos de un computador, y luego guardarlo en csv para posteriormente ser usados como prueba de robo de informacion. https://learn.microsoft.com/es-es/sysinternals/downloads/procmon . los procesos svchost, msedge y wininint, son los mas usados para esconder un hackeo.
 
 
 En un celular puede obtener el listado de las veces que se abren las aplicaciones, usando "ActionDash" y tener el listado de hora y fecha que se abrió cada aplicación. https://play.google.com/store/apps/details?id=com.actiondash.playstore&hl=es_CO
 
 
-En Whatsap puedes ver si esta abierto en otro dispositivo con la opción "Dispositivos vinculados" 
+En Whatsap puedes ver si esta abierto en otro dispositivo con la opción "Dispositivos vinculados" .
 
 
 En Facebook e Instagram puedes usar la opción "Centro de cuenta" de meta, para ver en que computadores esta abierta tu red social.
@@ -103,7 +103,7 @@ Con el fin de analizar la red de dispositivos electronicos, donde estas conectad
 ![HTML13](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)
 
 
-Los cuerpos humanos pueden estar secuestrados por medio de un "Neuro dust" instalado cerca ala medula espina y puede controlar el sistema nervioso, normalmente se comunican por ultrasonido y usan el efecto piezo eléctrico para cargarse. Recomiendo no ser transhumanistas en estos casos
+Los cuerpos humanos pueden estar secuestrados por medio de un "Neuro dust" instalado cerca ala medula espina y puede controlar el sistema nervioso, normalmente se comunican por ultrasonido y usan el efecto piezo eléctrico para cargarse. Recomiendo no ser transhumanistas en estos casos.
 
 Hay varias frecuencias electromagneticas que pueden afectar el cuerpo humano, causando mareos, quemaduras, cancer o la muerte, estas frecuencias puede ser emitidas por medio de laser de electromagnetismo, Recomiendo telas EMF para cuidar los órganos.
 
