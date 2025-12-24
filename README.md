@@ -10,7 +10,7 @@ Ingeniero de sistemas, Desarrollador de software, Fullstack en diferentes lengua
 <h1 style="font-size: 3em; color: #FF0000;">• FRONT-END</h1>
 
 
-Manejo de programas de diseño de software UML. Conocimiento en HTML y CSS.
+Manejo de programas de diseño de software UML. Conocimiento en HTML, CSS y Bootstrap.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
@@ -18,7 +18,7 @@ Manejo de programas de diseño de software UML. Conocimiento en HTML y CSS.
 
 <h1 style="font-size: 3em; color: #FF0000;">• BACK-END </h1>
 
-Conocedor de lenguaje de programación Java, PHP, Python, JavaScript, R, Go y Ruby.
+Conocedor de lenguaje de programación Java, PHP, Python, JavaScript, R, Go, Ruby y Solidity.
 Conocimiento en frameworks Angular, VueJs, Laravel, Flask, Django y Rails. 
 Manejo de Base de datos SQL y NoSql, tambien conexión JDBC.
 
