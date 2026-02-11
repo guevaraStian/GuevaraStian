@@ -1,24 +1,24 @@
-Sebastian Guevara Sanchez - Colombia - sebasguesa@hotmail.com
+<h1 style="font-size: 3em; color: #FF0000;">•  Sebastian Guevara Sanchez </h1> 
+Colombia - sebasguesa@hotmail.com
 
 
-Ingeniero de sistemas, Desarrollador de software, Fullstack en diferentes lenguajes de programacion, me apasiona la Ciberseguridad y tengo conocimientos en Blockchain.
+Ingeniero de sistemas, Desarrollador de software, Fullstack en diferentes lenguajes de programacion, me apasiona la Ciberseguridad, Blockchain, Inteligencia artificial, APIs y Redes de computadores.
 
 
 --------------------------
 
+<h1 style="font-size: 3em; color: #FF0000;">• FRONT-END</h1>
 
-FRONT-END
 
-
-Manejo de programas de diseño de software UML. Conocimiento en HTML y CSS.
+Manejo de programas de diseño de software UML. Conocimiento en HTML, CSS y Bootstrap.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 ------------ 
-BACK-END
 
+<h1 style="font-size: 3em; color: #FF0000;">• BACK-END </h1>
 
-Conocedor de lenguaje de programación Java, PHP, Python, JavaScript, R, Go y Ruby.
+Conocedor de lenguaje de programación Java, PHP, Python, JavaScript, R, Go, Ruby y Solidity.
 Conocimiento en frameworks Angular, VueJs, Laravel, Flask, Django y Rails. 
 Manejo de Base de datos SQL y NoSql, tambien conexión JDBC.
 
@@ -35,8 +35,7 @@ Manejo de Base de datos SQL y NoSql, tambien conexión JDBC.
 
 ---------------------
 
-
-SERVIDORES
+<h1 style="font-size: 3em; color: #FF0000;">• SERVIDORES </h1>
 
 
 Manejo de servidores Windows y Linux. Control de versiones GIT y CVS.
@@ -61,30 +60,61 @@ Programo software con tecnología Blockchain. Conocimiento en formulación y ges
 
 
  -----------------------
-RECOMENDACIONES ANTI HACKING BLUE TEAM
+
+<h1 style="font-size: 3em; color: #FF0000;">• RECOMENDACIONES ANTI HACKING - APLICACIONES DE BLUE TEAM </h1>
+
+![HTML1](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![HTML2](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![HTML3](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML4](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![HTML6](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![HTML7](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![HTML8](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![HTML9](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 
+ 
 Los computadores, celulares, redes sociales, pueden ser hackeadas por personas externas, hay varias formas de hacer evidencia de estos hackeos.
 
 
-Les recomiendo, la siguiente herramienta de windows, process monitor, ayuda a grabar los procesos de un computador, y luego guardarlo en csv para posteriormente ser usados como prueba de robo de informacion. https://learn.microsoft.com/es-es/sysinternals/downloads/procmon . los procesos svchost, msedge y wininint, son los mas usados para esconder un hackeo
+Les recomiendo, la siguiente herramienta de windows, process monitor, ayuda a grabar los procesos de un computador, y luego guardarlo en csv para posteriormente ser usados como prueba de robo de informacion. https://learn.microsoft.com/es-es/sysinternals/downloads/procmon . los procesos svchost, msedge y wininint, son los mas usados para esconder un hackeo.
 
 
 En un celular puede obtener el listado de las veces que se abren las aplicaciones, usando "ActionDash" y tener el listado de hora y fecha que se abrió cada aplicación. https://play.google.com/store/apps/details?id=com.actiondash.playstore&hl=es_CO
 
 
-En Whatsap puedes ver si esta abierto en otro dispositivo con la opción "Dispositivos vinculados" 
-
+En Whatsap puedes ver si esta abierto en otro dispositivo con la opción "Dispositivos vinculados" .
 
 
 En Facebook e Instagram puedes usar la opción "Centro de cuenta" de meta, para ver en que computadores esta abierta tu red social.
 
 
-Con el fin de analizar la red de dispositivos electronicos, donde estas conectado puedes ver datos con Nmap y sniffar la red con Wireshark.
-https://nmap.org/    https://www.wireshark.org/
+Con el fin de analizar la red de dispositivos electronicos, donde estas conectado puedes ver datos con Nmap y sniffar la red con Wireshark. https://nmap.org/    https://www.wireshark.org/
+
+------------------------------
 
 
------------------
+<h1 style="font-size: 3em; color: #FF0000;">• RECOMENDACIONES TECNOLOGICAS Y SALUD</h1>
+
+
+![HTML10](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)
+![HTML11](https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![HTML12](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
+![HTML13](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)
+
+
+Los cuerpos humanos pueden estar secuestrados por medio de un "Neuro dust" instalado cerca ala medula espina y puede controlar el sistema nervioso, normalmente se comunican por ultrasonido y usan el efecto piezo eléctrico para cargarse. Recomiendo no ser transhumanistas en estos casos.
+
+Hay varias frecuencias electromagneticas que pueden afectar el cuerpo humano, causando mareos, quemaduras, cancer o la muerte, estas frecuencias puede ser emitidas por medio de laser de electromagnetismo, Recomiendo telas EMF para cuidar los órganos.
+
+El ultrasonido puede mover objetos sin que el ojo del ser humano lo detecte, y los emisores del ultrasonido pueden ser microtecnologia, y pueden hacer tropezar a alguien. Recomiendo caminar con cuidado.
+
+Hay Microcámaras del tamaño de un arroz (endoscópicas) que pueden ser usadas para espionaje, recomiendo comprar artefactos que con infrarojo detecten cámaras, asi esten apagadas. 
+
+<h2>Si se dan cuenta de alguno de estas violaciones a los derechos humanos y violaciones de neuro derechos, recuerden documentar lugar, hora y caracteristicas donde se realizo ese tipo de agresion y subirlas a un correo electronico donde quede guardado para siempre</h2>
+
+
+
 
 
 

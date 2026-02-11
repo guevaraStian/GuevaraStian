@@ -12,7 +12,7 @@
     <rect width="800" height="560" fill="#121212" />
 
     <!-- Título -->
-    <text x="30" y="40" class="title">📊 Estadísticas GitHub - @GuevaraStian</text>
+    <text x="30" y="40" class="title">📊 Estadísticas GitHub - @Guevarastian</text>
 
     <!-- Pie chart -->
     <g><path d="M200,180 L320.0,180.0 A120,120 0 1,1 88.04256019156267,136.80819902411878 Z" fill="#f1e05a" />
@@ -35,10 +35,10 @@
 
     <!-- Datos clave -->
     <text x="30" y="320" class="label">📅 Última actualización:</text>
-    <text x="260" y="320" class="value">28 Sep 2025</text>
+    <text x="260" y="320" class="value">29 Oct 2025</text>
 
     <text x="30" y="350" class="label">📌 Repositorio destacado:</text>
-    <text x="260" y="350" class="value">guevaraStian/Redes_Neuronales</text>
+    <text x="260" y="350" class="value">guevaraStian/Proyectos_Python</text>
 
     <text x="30" y="380" class="label">📈 Contribuciones (último año):</text>
     <text x="260" y="380" class="value">Ver perfil (API REST no provee exacto)</text>
@@ -53,10 +53,10 @@
     <text x="260" y="470" class="value">93</text>
 
     <text x="30" y="500" class="label">👥 Seguidores / Siguiendo:</text>
-    <text x="260" y="500" class="value">2061 / 4504</text>
+    <text x="260" y="500" class="value">2127 / 2107</text>
 
     <text x="30" y="530" class="label">📝 Commits en 2025:</text>
-    <text x="260" y="530" class="value">238</text>
+    <text x="260" y="530" class="value">280</text>
 
     <text x="30" y="550" class="footer">Generado automáticamente con la API de GitHub</text>
 </svg>
