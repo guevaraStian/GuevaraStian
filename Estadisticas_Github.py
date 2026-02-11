@@ -10,7 +10,7 @@ from datetime import datetime
 
 # Se crean las variables de usuario y token
 TOKEN = "TOKEN_"
-USER = "USUARIO"
+USER = "USUARIO_"
 
 # Se crea la variable con los json necesarios
 HEADERS = {
