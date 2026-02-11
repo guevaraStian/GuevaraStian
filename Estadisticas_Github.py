@@ -9,7 +9,7 @@ from collections import defaultdict
 from datetime import datetime
 
 # Se crean las variables de usuario y token
-TOKEN = "TOKEN"
+TOKEN = "TOKEN_"
 USER = "USUARIO"
 
 # Se crea la variable con los json necesarios
