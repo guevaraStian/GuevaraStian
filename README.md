@@ -114,7 +114,6 @@ Hay Microcámaras del tamaño de un arroz (endoscópicas) que pueden ser usadas 
 
 
 ![Visitas del perfil](https://komarev.com/ghpvc/?username=GuevaraStian&color=red)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=GuevaraStian.GuevaraStian)
 
 
 
