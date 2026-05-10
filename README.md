@@ -90,6 +90,9 @@ En Facebook e Instagram puedes usar la opción "Centro de cuenta" de meta, para 
 
 Con el fin de analizar la red de dispositivos electronicos, donde estas conectado puedes ver datos con Nmap y sniffar la red con Wireshark. https://nmap.org/    https://www.wireshark.org/
 
+Si desea confirmar si los microchips de su computador fueron alterados, recomiendo que valide si en la placa del computador hay algun reciduo electronico como liquidos de soldadura, pero otra forma de validarlo es usar el software chipsec. https://github.com/chipsec/chipsec
+
+
 ------------------------------
 
 
