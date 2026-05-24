@@ -55,6 +55,118 @@ Programo software con tecnología Blockchain. Conocimiento en formulación y ges
 
 [![GuevaraStian](https://github-readme-activity-graph.vercel.app/graph?username=guevaraStian&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+------------------------
+
+
+<br>
+
+
+<div align="center">
+
+<table align="center">
+
+<!-- ROW 1 -->
+<tr>
+
+<td align="center" width="360" style="padding:10px;">
+<span style="font-size:24px; font-weight:800;">Votaciones Blockchain</span><br>
+<a href="https://github.com/guevaraStian/Votaciones_Blockchain">
+<img src="01_blockchain.jpeg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+</td>
+
+<td align="center" width="360" style="padding:10px;">
+<span style="font-size:24px; font-weight:800;">Inteligencia Artificial IA</span><br>
+<a href="https://github.com/guevaraStian/Inteligencia_Artificial_IA">
+<img src="02_IA.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+
+</td>
+
+
+
+<td align="center" width="360" style="padding:10px;">
+<span style="font-size:24px; font-weight:800;">APIs</span> <br>
+<a href="https://github.com/guevaraStian/APIs">
+<img src="03_APIS.jpeg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+
+</td>
+
+</tr>
+
+<!-- ROW 2 -->
+<tr>
+
+<td align="center" width="360" style="padding:10px;">
+<span style="font-size:24px; font-weight:800;">Terminal de comandos</span> <br>
+<a href="https://github.com/guevaraStian/Terminal_De_Comandos_CMD_SHELL_CLI">
+<img src="04_Terminal_Comandos.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+
+</td>
+
+<td align="center" width="360" style="padding:10px;">
+<span style="font-size:24px; font-weight:800;">Analitica de datos</span> <br>
+<a href="https://github.com/guevaraStian/Analitica_De_Datos_Dashboards_Iterativos">
+<img src="05_Digital-Analytics.webp"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+
+</td>
+
+<td align="center" width="360" style="padding:10px;">
+<span style="font-size:24px; font-weight:800;">Python</span> <br>
+<a href="https://github.com/guevaraStian/Proyectos_Python">
+<img src="06_python.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+
+</td>
+
+</tr>
+
+<!-- ROW 3 -->
+<tr>
+
+<td align="center" width="360" style="padding:10px;">
+<span style="font-size:24px; font-weight:800;">APPs</span> <br>
+<a href="https://github.com/guevaraStian/APPs_Aplicaciones_Moviles">
+<img src="07_apps.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+
+</td>
+
+<td align="center" width="360" style="padding:10px;">
+<span style="font-size:24px; font-weight:800;">Aprender programacion basica</span> <br>
+<a href="https://github.com/guevaraStian/Aprender_Programacion_Basica">
+<img src="08_Aprender.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+
+</td>
+
+<td align="center" width="360" style="padding:10px;">
+><span style="font-size:24px; font-weight:800;">Factura con Blockchain</span> <br
+<a href="https://github.com/guevaraStian/Factura_Electronica_Blockchain">
+<img src="09_factura.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
 
 
 
