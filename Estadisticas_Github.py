@@ -9,8 +9,8 @@ from collections import defaultdict
 from datetime import datetime
 
 # Se crean las variables de usuario y token
-TOKEN = "_TOKEN_"
-USER = "_USUARIO_"
+TOKEN = "_Ticket_"
+USER = "_Usuario_"
 
 # Se crea la variable con los json necesarios
 HEADERS = {
