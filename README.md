@@ -69,7 +69,7 @@ Programo software con tecnología Blockchain. Conocimiento en formulación y ges
 <tr>
 
 <td align="center" width="360" style="padding:10px;">
-<span style="font-size:3em; font-weight:800; color: #FF0000;">Votaciones Blockchain</span><br>
+<h2 style="font-size:3em; font-weight:800; color: #FF0000;">Votaciones Blockchain</h2><br>
 <a href="https://github.com/guevaraStian/Votaciones_Blockchain">
 <img src="01_blockchain.jpeg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
@@ -77,7 +77,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </td>
 
 <td align="center" width="360" style="padding:10px;">
-<span style="font-size:3em; font-weight:800;">Inteligencia Artificial IA</span><br>
+<h2 style="font-size:3em; font-weight:800;">Inteligencia Artificial IA</h2><br>
 <a href="https://github.com/guevaraStian/Inteligencia_Artificial_IA">
 <img src="02_IA.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
@@ -88,7 +88,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 <td align="center" width="360" style="padding:10px;">
-<span style="font-size:3em; font-weight:800;">APIs</span> <br>
+<h2 style="font-size:3em; font-weight:800;">APIs</h2> <br>
 <a href="https://github.com/guevaraStian/APIs">
 <img src="03_APIS.jpeg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
@@ -102,7 +102,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <tr>
 
 <td align="center" width="360" style="padding:10px;">
-<span style="font-size:3em; font-weight:800;">Terminal de comandos</span> <br>
+<h2 style="font-size:3em; font-weight:800;">Terminal de comandos</h2> <br>
 <a href="https://github.com/guevaraStian/Terminal_De_Comandos_CMD_SHELL_CLI">
 <img src="04_Terminal_Comandos.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
@@ -111,7 +111,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </td>
 
 <td align="center" width="360" style="padding:10px;">
-<span style="font-size:3em; font-weight:800;">Analitica de datos</span> <br>
+<h2 style="font-size:3em; font-weight:800;">Analitica de datos</h2> <br>
 <a href="https://github.com/guevaraStian/Analitica_De_Datos_Dashboards_Iterativos">
 <img src="05_Digital-Analytics.webp"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
@@ -120,7 +120,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </td>
 
 <td align="center" width="360" style="padding:10px;">
-<span style="font-size:3em; font-weight:800;">Python</span> <br>
+<h2 style="font-size:3em; font-weight:800;">Python</h2> <br>
 <a href="https://github.com/guevaraStian/Proyectos_Python">
 <img src="06_python.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
@@ -134,7 +134,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <tr>
 
 <td align="center" width="360" style="padding:10px;">
-<span style="font-size:3em; font-weight:800;">APPs</span> <br>
+<h2 style="font-size:3em; font-weight:800;">APPs</h2> <br>
 <a href="https://github.com/guevaraStian/APPs_Aplicaciones_Moviles">
 <img src="07_apps.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
@@ -143,7 +143,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </td>
 
 <td align="center" width="360" style="padding:10px;">
-<span style="font-size:3em; font-weight:800;">Aprender programacion basica</span> <br>
+<h2 style="font-size:3em; font-weight:800;">Aprender programacion basica</h2> <br>
 <a href="https://github.com/guevaraStian/Aprender_Programacion_Basica">
 <img src="08_Aprender.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
@@ -152,7 +152,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </td>
 
 <td align="center" width="360" style="padding:10px;">
-<span style="font-size:3em; font-weight:800;">Factura con Blockchain</span> <br>
+<h2 style="font-size:3em; font-weight:800;">Factura con Blockchain</h2> <br>
 <a href="https://github.com/guevaraStian/Factura_Electronica_Blockchain">
 <img src="09_factura.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
