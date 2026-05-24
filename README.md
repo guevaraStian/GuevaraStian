@@ -152,7 +152,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </td>
 
 <td align="center" width="360" style="padding:10px;">
-><span style="font-size:24px; font-weight:800;">Factura con Blockchain</span> <br
+<span style="font-size:24px; font-weight:800;">Factura con Blockchain</span> <br>
 <a href="https://github.com/guevaraStian/Factura_Electronica_Blockchain">
 <img src="09_factura.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
