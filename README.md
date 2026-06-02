@@ -96,11 +96,20 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 </td>
 
+
+
 </tr>
 
 <!-- ROW 2 -->
 <tr>
+<td align="center" width="360" style="padding:10px;">
+<h2 style="font-size:3em; font-weight:800;">APPs</h2> <br>
+<a href="https://github.com/guevaraStian/APPs_Aplicaciones_Moviles">
+<img src="07_apps.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
 
+</td>
 <td align="center" width="360" style="padding:10px;">
 <h2 style="font-size:3em; font-weight:800;">Terminal de comandos</h2> <br>
 <a href="https://github.com/guevaraStian/Terminal_De_Comandos_CMD_SHELL_CLI">
@@ -119,29 +128,16 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 </td>
 
-<td align="center" width="360" style="padding:10px;">
-<h2 style="font-size:3em; font-weight:800;">Python</h2> <br>
-<a href="https://github.com/guevaraStian/Proyectos_Python">
-<img src="06_python.jpg"
-width="320" height="220" style="object-fit:cover;border-radius:12px;">
-</a>
-
-</td>
 
 </tr>
+
+
 
 <!-- ROW 3 -->
 <tr>
 
-<td align="center" width="360" style="padding:10px;">
-<h2 style="font-size:3em; font-weight:800;">APPs</h2> <br>
-<a href="https://github.com/guevaraStian/APPs_Aplicaciones_Moviles">
-<img src="07_apps.jpg"
-width="320" height="220" style="object-fit:cover;border-radius:12px;">
-</a>
 
 </td>
-
 <td align="center" width="360" style="padding:10px;">
 <h2 style="font-size:3em; font-weight:800;">Aprender programacion basica</h2> <br>
 <a href="https://github.com/guevaraStian/Aprender_Programacion_Basica">
@@ -150,11 +146,17 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
 
 </td>
-
 <td align="center" width="360" style="padding:10px;">
 <h2 style="font-size:3em; font-weight:800;">Factura con Blockchain</h2> <br>
 <a href="https://github.com/guevaraStian/Factura_Electronica_Blockchain">
 <img src="09_factura.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+
+<td align="center" width="360" style="padding:10px;">
+<h2 style="font-size:3em; font-weight:800;">Python</h2> <br>
+<a href="https://github.com/guevaraStian/Proyectos_Python">
+<img src="06_python.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
 
