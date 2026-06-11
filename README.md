@@ -1,8 +1,8 @@
-<h1 style="font-size: 3em; color: #FF0000;">•  Sebastian Guevara Sanchez </h1> 
+<h1 style="font-size: 3em; color: #FF0000;">•  Sebastian Guevara Sanchez </h1>  Colombia - sebasguesa@hotmail.com 
 
 <h3>  Ingeniero de sistemas, Desarrollador de software, Fullstack en diferentes lenguajes de programacion, me apasiona la Ciberseguridad, Blockchain, Inteligencia artificial, APPs, APIs y Redes de computadores.</h3>
 
-Colombia - sebasguesa@hotmail.com 
+
 
 --------------------------
 
