@@ -137,34 +137,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <tr>
 
 
-</td>
-<td align="center" width="360" style="padding:10px;">
-<h2 style="font-size:3em; font-weight:800;">Aprender programacion basica</h2> <br>
-<a href="https://github.com/guevaraStian/Aprender_Programacion_Basica">
-<img src="08_Aprender.jpg"
-width="320" height="220" style="object-fit:cover;border-radius:12px;">
-</a>
-
-</td>
-<td align="center" width="360" style="padding:10px;">
-<h2 style="font-size:3em; font-weight:800;">Factura con Blockchain</h2> <br>
-<a href="https://github.com/guevaraStian/Factura_Electronica_Blockchain">
-<img src="09_factura.jpg"
-width="320" height="220" style="object-fit:cover;border-radius:12px;">
-</a>
-
-<td align="center" width="360" style="padding:10px;">
-<h2 style="font-size:3em; font-weight:800;">Python</h2> <br>
-<a href="https://github.com/guevaraStian/Proyectos_Python">
-<img src="06_python.jpg"
-width="320" height="220" style="object-fit:cover;border-radius:12px;">
-</a>
-
-</td>
-</tr>
-
-<tr>
-
  <td align="center" width="360" style="padding:10px;">
 <h2 style="font-size:3em; font-weight:800;"> CiberSeguridad</h2> <br>
 <a href="https://github.com/guevaraStian/Proyectos_Python/tree/main/05_Ciberseguridad_Python">
@@ -197,6 +169,36 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
   
 
 </tr>
+
+
+<tr>
+
+</td>
+<td align="center" width="360" style="padding:10px;">
+<h2 style="font-size:3em; font-weight:800;">Aprender programacion basica</h2> <br>
+<a href="https://github.com/guevaraStian/Aprender_Programacion_Basica">
+<img src="08_Aprender.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+
+</td>
+<td align="center" width="360" style="padding:10px;">
+<h2 style="font-size:3em; font-weight:800;">Factura con Blockchain</h2> <br>
+<a href="https://github.com/guevaraStian/Factura_Electronica_Blockchain">
+<img src="09_factura.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+
+<td align="center" width="360" style="padding:10px;">
+<h2 style="font-size:3em; font-weight:800;">Python</h2> <br>
+<a href="https://github.com/guevaraStian/Proyectos_Python">
+<img src="06_python.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+
+</td>
+</tr>
+
 
 </table>
 
