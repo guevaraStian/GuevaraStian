@@ -168,7 +168,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
  <td align="center" width="360" style="padding:10px;">
 <h2 style="font-size:3em; font-weight:800;"> CiberSeguridad</h2> <br>
 <a href="https://github.com/guevaraStian/Proyectos_Python/tree/main/05_Ciberseguridad_Python">
-<img src="10_ciberseguridad.jpg"
+<img src="10_CiberSeguridad.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
   </td>
@@ -179,7 +179,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <td align="center" width="360" style="padding:10px;">
 <h2 style="font-size:3em; font-weight:800;">Tickets PHP</h2> <br>
 <a href="https://github.com/guevaraStian/Proyectos_PHP/tree/main/Ticket_Php_Javascript_MySql">
-<img src="11_ticket_php.jpg"
+<img src="11_ticet_php.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
   </td>
@@ -189,7 +189,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <td align="center" width="360" style="padding:10px;">
 <h2 style="font-size:3em; font-weight:800;"> Detector Imsi Catcher</h2> <br>
 <a href="https://github.com/guevaraStian/APPs_Aplicaciones_Moviles/tree/main/Detector_Imsi_Catcher_Mapa">
-<img src="12_imsi_catchet.jpg"
+<img src="12_Imsi_Catchet.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
 
