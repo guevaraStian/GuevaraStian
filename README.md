@@ -1,12 +1,12 @@
-<h1 style="font-size: 3em; color: #FF0000;">•  Sebastian Guevara Sanchez </h1>  Colombia - sebasguesa@hotmail.com 
+<h1 style="font-size: 3em; color: #FF0000;" align="center">•  Sebastian Guevara Sanchez </h1>  Colombia - sebasguesa@hotmail.com 
 
-<h3>  Ingeniero de sistemas, Desarrollador de software, Fullstack en diferentes lenguajes de programacion, me apasiona la Ciberseguridad, Blockchain, Inteligencia artificial, APPs, APIs y Redes de computadores.</h3>
+<h3 align="center">  Ingeniero de sistemas, Desarrollador de software, Fullstack en diferentes lenguajes de programacion, me apasiona la Ciberseguridad, Blockchain, Inteligencia artificial, APPs, APIs y Redes de computadores.</h3>
 
 
 
 --------------------------
 
-<h1 style="font-size: 3em; color: #FF0000;">• FRONT-END</h1>
+<h1 style="font-size: 3em; color: #FF0000;" align="center">• FRONT-END</h1>
 
 
 Manejo de programas de diseño de software UML. Conocimiento en HTML, CSS y Bootstrap.
@@ -15,7 +15,7 @@ Manejo de programas de diseño de software UML. Conocimiento en HTML, CSS y Boot
 
 ------------ 
 
-<h1 style="font-size: 3em; color: #FF0000;">• BACK-END </h1>
+<h1 style="font-size: 3em; color: #FF0000;" align="center">• BACK-END </h1>
 
 Conocedor de lenguaje de programación Java, PHP, Python, JavaScript, R, Go, Ruby y Solidity.
 Conocimiento en frameworks Angular, VueJs, Laravel, Flask, Django, Android Studio y Rails. 
@@ -34,7 +34,7 @@ Manejo de Base de datos SQL y NoSql, tambien conexión JDBC.
 
 ---------------------
 
-<h1 style="font-size: 3em; color: #FF0000;">• SERVIDORES </h1>
+<h1 style="font-size: 3em; color: #FF0000;" align="center">• SERVIDORES </h1>
 
 
 Manejo de servidores Windows y Linux. Control de versiones GIT y CVS.
@@ -205,7 +205,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </div>
  -----------------------
 
-<h1 style="font-size: 3em; color: #FF0000;">• RECOMENDACIONES ANTI HACKING - APLICACIONES DE BLUE TEAM </h1>
+<h1 style="font-size: 3em; color: #FF0000;" align="center">• RECOMENDACIONES ANTI HACKING - APLICACIONES DE BLUE TEAM </h1>
 
 ![HTML1](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![HTML2](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -241,7 +241,7 @@ Si desea confirmar si los microchips de su computador fueron alterados, recomien
 ------------------------------
 
 
-<h1 style="font-size: 3em; color: #FF0000;">• RECOMENDACIONES TECNOLOGICAS Y SALUD</h1>
+<h1 style="font-size: 3em; color: #FF0000;" align="center">• RECOMENDACIONES TECNOLOGICAS Y SALUD</h1>
 
 
 ![HTML10](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)
