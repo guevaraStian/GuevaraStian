@@ -203,7 +203,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </table>
 
 </div>
- -----------------------
+
 
 <h1 style="font-size: 3em; color: #FF0000;" align="center">• RECOMENDACIONES ANTI HACKING - APLICACIONES DE BLUE TEAM </h1>
 
