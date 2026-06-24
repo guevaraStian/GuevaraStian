@@ -9,7 +9,7 @@
 <h1 style="font-size: 3em; color: #FF0000;" align="center">• FRONT-END</h1>
 
 
-Manejo de programas de diseño de software UML. Conocimiento en HTML, CSS y Bootstrap.
+<h3 align="center">  Manejo de programas de diseño de software UML. Conocimiento en HTML, CSS y Bootstrap.</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
@@ -17,9 +17,9 @@ Manejo de programas de diseño de software UML. Conocimiento en HTML, CSS y Boot
 
 <h1 style="font-size: 3em; color: #FF0000;" align="center">• BACK-END </h1>
 
-Conocedor de lenguaje de programación Java, PHP, Python, JavaScript, R, Go, Ruby y Solidity.
+<h3 align="center">  Conocedor de lenguaje de programación Java, PHP, Python, JavaScript, R, Go, Ruby y Solidity.
 Conocimiento en frameworks Angular, VueJs, Laravel, Flask, Django, Android Studio y Rails. 
-Manejo de Base de datos SQL y NoSql, tambien conexión JDBC.
+Manejo de Base de datos SQL y NoSql, tambien conexión JDBC.</h3>
 
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -37,12 +37,12 @@ Manejo de Base de datos SQL y NoSql, tambien conexión JDBC.
 <h1 style="font-size: 3em; color: #FF0000;" align="center">• SERVIDORES </h1>
 
 
-Manejo de servidores Windows y Linux. Control de versiones GIT y CVS.
-Conocimiento de instalación y mantenimiento a Redes de computadores CCNA, Soporte técnico a computadores y operario de AS400.
+<h3 align="center">  Manejo de servidores Windows y Linux. Control de versiones GIT y CVS.
+Conocimiento de instalación y mantenimiento a Redes de computadores CCNA, Soporte técnico a computadores y operario de AS400.</h3>
 
 
-Conocimientos en Ciberseguridad, control de programas de intrusión a Redes de información y manejo de algunos temas criptografícos.
-Programo software con tecnología Blockchain. Conocimiento en formulación y gestión de proyectos PMI y seguimiento PMBOK con ofimática. 
+<h3 align="center">  Conocimientos en Ciberseguridad, control de programas de intrusión a Redes de información y manejo de algunos temas criptografícos.
+Programo software con tecnología Blockchain. Conocimiento en formulación y gestión de proyectos PMI y seguimiento PMBOK con ofimática. </h3>
 
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) 
